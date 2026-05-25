@@ -1,0 +1,12 @@
+service_display_name,name,quantity,region,service_id,sku,"total_price, USD",notes
+Cloud Run,Services CPU (Request-based billing),2000000.0,global,152E-C115-5142,4856-B847-F1EB,0.048,
+Cloud Run,Services Memory (Request-based billing),1000000.0,global,152E-C115-5142,02A2-9231-36A6,0.0025,
+Cloud Run,Requests,5000.0,global,152E-C115-5142,2DA5-55D3-E679,0,
+,,,,,,,
+,,,,,Total Price:,0.0505,
+,,,,,,,
+"Prices are in US dollars, effective date is 2026-05-24T22:30:08.594Z",,,,,,,
+,,,,,,,
+The estimated fees provided by Google Cloud Pricing Calculator are for discussion purposes only and are not binding on either you or Google. Your actual fees may be higher or lower than the estimate.,,,,,,,
+,,,,,,,
+Url to the estimate:,https://cloud.google.com/calculator?dl=CjhDaVExTWpObVlqYzVaQzB3TTJWaExUUTJPRFl0WWpJME5TMWpOems0TURaaFl6UXlaRElRQWc9PRokOEE4N0EyMzItMTZERS00QzZCLUI1NEItN0NEMUMzMDU5RDVB,,,,,,
